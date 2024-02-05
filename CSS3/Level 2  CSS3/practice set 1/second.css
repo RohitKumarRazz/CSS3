@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+div {
+    
+    background-color: #0f1111;
+    height: 60px;
+}
+a {
+    margin-right: 180px;
+    text-decoration: none;
+    
+}
+#logo{
+    font-size: 25px;
+    color: yellowgreen;
+}
+button{
+    background-color: yellowgreen;
+    color: white;
+}

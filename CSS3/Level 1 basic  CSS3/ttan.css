@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    text-decoration: blue dotted underline;
+}
+a {
+    text-decoration: none;
+}
+#one {
+    font-weight: 100;
+}
+#two {
+    font-weight: 350;
+}
+#three {
+    font-weight: bolder;
+}
+#four {
+    font-weight: lighter;
+}

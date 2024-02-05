@@ -1,0 +1,53 @@
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    font-size: 10px;
+}
+#box2 {
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    /* width: 5em; */
+    /* width: 5rem; */
+    /* height: 100vh; */
+    /* 2 times of parent fontsize  */
+/* } */
+
+
+/* ********POSITION PROPERTY****** */
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1 {
+    background-color: red;
+    position: static;
+    /* never change position */
+
+}
+#box2 {
+    background-color: blue;
+    position: relative;
+    top: 20px;
+    left: 10px;
+
+}
+#box3{
+    background-color: green;
+    position: absolute;
+    top: 0;
+    left: 30px;
+    z-index: 5;
+
+}
+#box4{
+    position: fixed;
+    left: 0;
+    top: 0;
+}

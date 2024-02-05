@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#nav {
+    
+    background-color: #0f1111;
+    height: 50px;
+}
+a {
+    margin-left: 180px;
+    text-decoration: none;
+    color: white;
+    
+}
+#logo{
+    margin-left: 2px;
+    font-size: 25px;
+    color: yellowgreen;
+}
+input {
+    margin-left: 200px;
+}
+button{
+    background-color: yellowgreen;
+    color: white;
+}
+
+.contentbox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content {
+    height: 460px;
+}
+footer {
+    background-color: #0f1111;
+    text-align: center;
+}

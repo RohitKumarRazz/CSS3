@@ -1,0 +1,33 @@
+*{
+    color: blue;
+}
+h1{
+    color: bisque;
+}
+#first{
+    color: coral;
+}
+.second{
+    color: rgb(191, 34, 114);
+}
+
+/* Its work on lifo */
+/* h1{
+    color: blueviolet;
+}
+h2{
+    color: blue;
+}
+p{
+    color: brown;
+}
+button{
+    color: chocolate;
+    background-color: chartreuse;
+}
+body{
+    /* background-color: rgb(255, 0, 0); */
+    /* background-color: #ff0000; */
+    background-color: #ffff00;
+    /* use colors palate also */
+} */

@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    background-color: bisque;
+    width: 100px;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: blue; */
+    border: 2px solid blue;
+    /* text-align: right; */
+    border-radius: 10px;
+}
+h1 {
+    height: 50px;
+    width: 200px;
+    background-color: blanchedalmond;
+    /* border-width: 3px;
+    border-style: dotted;
+    border-color: brown; */
+    border: 3px dotted brown;
+    text-align: center;
+    border-radius: 50%;
+    
+}

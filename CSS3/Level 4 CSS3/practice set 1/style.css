@@ -1,0 +1,33 @@
+.nav{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a {
+    text-decoration: none;
+    color: red;
+    border-color: aqua;
+}
+li {
+    list-style-type: none;
+    display: inline;
+    
+}
+
+
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    border-color: darkblue;
+}

@@ -1,0 +1,29 @@
+/* div {
+    background-color: pink;
+    display: inline;
+}
+button {
+    display: block;
+    background-color: red;
+} */
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    /* display: inline; */
+    display: inline-block;
+}
+
+#b1 {
+    background-color: blue;
+}
+#b2 {
+    background-color: green;
+    /* display: none; */
+    /* visibility: hidden; */
+
+}
+#b3 {
+    background-color: red;
+}
